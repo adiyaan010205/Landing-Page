@@ -78,12 +78,6 @@
 
 ---
 
-### 🖼️ Preview
-
-![PixelForge](https://adiyaan010205.github.io/Landing-Page/) 
-
----
-
 ### 🙏 Credits
 
 - Social SVG icons from [Simple Icons](https://simpleicons.org/)
