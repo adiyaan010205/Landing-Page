@@ -44,7 +44,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/pixelforge.git
+   git clone https://github.com/adiyaan010205/Landing-Page.git
    cd pixelforge
    ```
 
